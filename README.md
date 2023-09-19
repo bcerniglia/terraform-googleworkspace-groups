@@ -1,4 +1,4 @@
-# Google Workspace Module - POC
+# Google Workspace Module 
 
 ## High Level View of Components:   
 ### Google Workspace
